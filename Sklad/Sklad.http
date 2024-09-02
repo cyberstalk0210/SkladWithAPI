@@ -1,0 +1,6 @@
+@Sklad_HostAddress = http://localhost:5058
+
+GET {{Sklad_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
