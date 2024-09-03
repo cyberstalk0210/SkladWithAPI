@@ -2,7 +2,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Sklad.Interfaces;
 using Sklad.Model;
-using System.Text.RegularExpressions;
 
 namespace Sklad.Repositories
 {
